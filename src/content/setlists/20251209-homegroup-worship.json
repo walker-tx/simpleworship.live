@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../.astro/collections/setlists.schema.json",
+  "name": "Living Room Worship",
+  "date": "2025-12-09T00:00:00.000Z",
+  "songs": [
+    "aaron-ivey-jesus-is-better",
+    "josh-baldwin-my-king-forever",
+    "bethel-music-another-like-you",
+    "hillsong-worship-from-the-inside-out",
+    "bethel-music-i-belong-to-jesus"
+  ]
+}
